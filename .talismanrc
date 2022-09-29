@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: env_secrets
+  checksum: bb5af817cc524ae5b7a35888790ab7109636d5e12f02a345281fb15a35f964ec
+version: ""
